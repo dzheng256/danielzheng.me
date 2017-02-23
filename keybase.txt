@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/dzheng
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danielzheng.me
+  * I am dzheng (https://keybase.io/dzheng) on keybase.
+  * I have a public key with fingerprint 6C98 5C40 92F4 FB33 0FB7  EDA0 7F25 EE03 21EE 5BCF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101bfdb14fb731cbcfed457096b6c5e8c66c769e445fa2fc21956ddec08250169920a",
+            "fingerprint": "6c985c4092f4fb330fb7eda07f25ee0321ee5bcf",
+            "host": "keybase.io",
+            "key_id": "7f25ee0321ee5bcf",
+            "kid": "0101bfdb14fb731cbcfed457096b6c5e8c66c769e445fa2fc21956ddec08250169920a",
+            "uid": "18f450ce675098715e759280257dfd19",
+            "username": "dzheng"
+        },
+        "service": {
+            "hostname": "danielzheng.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487821354,
+    "expire_in": 157680000,
+    "prev": "b37e712c2672139bec051c1385aab35a36162354922aef3f0e6ce30b8545a6be",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.64
+Comment: https://keybase.io/crypto
+
+yMIjAnicrZJdSBVBFMevlmKKUEbRJ9T0VF1sZ3ZndvdGEhGlIVGRJRbddmfPerdu
+u7d716/ECjI0KSgii76DQLIPLCp9SFMRIRTLXir6oIc+COyhL6KobFbqrcfmZZhz
+/ud3/ucwfbnjQtlpbzoLR381HvqQNtDTXBEqvVa2oBaZnlWDIrVoO4xdELcg5Ue3
+OxaKIAlL2LQtEyu2qcqYm9wGS6GqpDOTcQoaZ4yrTAdFobZBbE6wTpllAZc0QiXM
+dJ1IBgoj23HLIZlIOq4vsIzrGuWKpBNbgGVZEnSwDEm1CQWQZIIBqOglCmNeKqgQ
+5kwjBfmOJ2LiER2z9w/9f/ZdMYbDmq1QiQNTqaRrKqagUp1oEqGqZVtYD4QpSLrG
+DhBqa1cM3HJUF0YiVulwCNYazPE3b7gOxMdE+SIQRomk53vci4tczPcTkaDUr0kE
+2iowo38oUdNxLbFGUVAJyZTjuSiChZL7ToDFiqZqBMtUCSOoTjhJiDqBgqpMk8QJ
+2kClQJqyCiomnDBVyHVTzEwxx7JGDcOUqSEzzIjA6IQYYMu2BIyDLJkaVajBzMBw
+Cna6HooQYdMoF8iUU+4afkUSUF1v9+bxobTsUGZGevC9QtkTJv79dOMvZoUa648V
+PbPvrH2ClCkZw29Xr+j86PAMMidraNu75Wk/S7IWzsUP96V//VLaWdZ6vmTdzVBO
+0aL8Enn/tfetQ8OVWR2oee3ikYdNZ0n7lrzbfUdONPvx3afyXmdkzmjonf1t5O2U
+lT1Xhyff61p2YQlb0rJ3Wm1/UcW7ablHz51Zqu58XlDX+fn64ftN85pI0YehKxs2
+8o6cpZP6C3IG6x+b6463Rx417hkZ/P7+BJq5tTV2+m54tMtAA0/46JZdrx7MmvCp
+5+iaqrKcV7C5raG77eX0zMsN6394tVWaduPF/FUsxhY7m/IOZrbgm6OD3oLP1R/d
+608LZ3X3Fx/ouHRy6p5U8a3fRzZBzg==
+=7Ru3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dzheng
+
+==================================================================
+
