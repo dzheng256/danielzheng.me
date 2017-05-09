@@ -1808,9 +1808,7 @@
 
 	form label {
 		display: block;
-		text-align: left;
-		margin-left: 100px;
-		margin-right: 100px;
+		text-align: center;
 		margin-bottom: 0.5em;
 	}
 
@@ -1819,16 +1817,17 @@
 	form input[type="password"],
 	form select,
 	form textarea {
-		margin-left: 100px;
-		margin-right: 100px;
+		margin-left: auto;
+		margin-right: auto;
 		position: relative;
 		-webkit-appearance: none;
 		display: block;
+
 		border: 0;
 		outline: 0;
 		background: #fff;
 		background: rgba(255, 255, 255, 0.75);
-		width: 90%;
+		width: 80%;
 		border-radius: 0.35em;
 		padding: 0.75em 1em 0.75em 1em;
 		box-shadow: inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.05);
