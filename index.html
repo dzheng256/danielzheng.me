@@ -16,24 +16,32 @@
 	  	ga('send', 'pageview');
 
 		</script>
+		<script>
+			document.addEventListener("DOMContentLoaded", function(){
+				Typed.new(".typed", {
+					strings: ["a Developer.", " an ML Enthusiast.", "Dan."],
+					typeSpeed: 0,
+					backDelay: 1000
+				});
+			});
+		</script>
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="icon" href="" type="image/x-icon"/>
+    <link rel="icon" href="images/square.png" type="image/x-icon"/>
 
 	</head>
+
 	<body>
 
 		<!-- Header -->
 			<div id="header">
 
 				<div class="top">
-
 					<!-- Logo -->
 						<div id="logo">
 							<span class="image avatar48"><img src="images/square.png" alt="" /></span>
 							<h1 id="title">Daniel Zheng</h1>
-							<p>Computer Engineer</p>
+ 							<p>Computer Engineer</p>
 						</div>
-
 					<!-- Nav -->
 						<nav id="nav">
 							<!--
@@ -80,8 +88,10 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt">Hi! I'm Daniel Zheng</h2>
-								<p>Computer Engineering student at the University of Pittsburgh. This website will be updated. Eventually..</p>
+								<h2 class="alt">I'm
+									<span class="typed"></span>
+									<span class="typed-cursor"></span>
+								</h2>
 							</header>
 							<a href="https://drive.google.com/open?id=0BzmRQBv-g37yWXhOcFlidlJ5bXM" class="button scrolly">Resume</a>
 							<footer>
@@ -209,7 +219,9 @@
 
 			</div>
 
+
 		<!-- Scripts -->
+			<script src="assets/js/typed.js"></script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/jquery.scrollzer.min.js"></script>
